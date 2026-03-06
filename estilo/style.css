@@ -148,7 +148,6 @@ main .img_pequena{
     margin: auto;
 }
 
-/*
 main .vid{
     display: block;
     max-width: 560px;
@@ -156,7 +155,6 @@ main .vid{
     margin: auto;
     margin-bottom: 10px;
 }
-*/
 
 aside{
     background-color: var(--cor1);
